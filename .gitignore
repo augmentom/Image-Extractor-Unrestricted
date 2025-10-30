@@ -1,0 +1,7 @@
+"" 
+"# Don't upload downloaded images" 
+"full_images/*.jpg" 
+"full_images/*.jpeg" 
+"full_images/*.png" 
+"full_images/*.gif" 
+"full_images/*.webp" 
